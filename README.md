@@ -10,23 +10,23 @@ Sources:
 - Africa's critical minerals exports: <a href='https://comtradeplus.un.org/'>UN Comtrade database</a>, 2023 data
 - Political stability: <a href='https://www.worldbank.org/en/publication/worldwide-governance-indicators'>World Bank's Worldwide Governance Indicators</a>, 2023 data
 
-World Mining Data is an annual report with production figures of 65 mineral commodities from 168 countries, collected through the evaluation of questionnaires sent to national bodies. It is authored by the Austrian Federal Ministry of Finance (BMF). 
+<b>World Mining Data</b> is an annual report with production figures of 65 mineral commodities from 168 countries, collected through the evaluation of questionnaires sent to national bodies. It is authored by the Austrian Federal Ministry of Finance (BMF). 
 
-The International Energy Agency is an autonomous intergovernamental organisation providing policy recommendations, analysis and data. They based this dataset on inputs from national administrations, previous IEA models and literature review. 
+<b>The International Energy Agency (IEA)</b> is an autonomous intergovernamental organisation providing policy recommendations, analysis and data. They based this dataset on inputs from national administrations, previous IEA models and literature review. 
 
 IEA data includes a lower number of critical minerals than WMD. We have looked into IEA's 'stated policies scenario' only​.
 
-The World Bank, the international institution providing loans to governments of middle to low-income countries, compiles its Worldwide Governance Indicators on the perceptions of the quality of governance in more than 200 economies. Sources for this data are surveys and expertise produced by more than 30 think tanks, international organizations, nongovernmental organizations, and private firms around the world. 
+<b>The World Bank</b>, the international institution providing loans to governments of middle to low-income countries, compiles its Worldwide Governance Indicators on the perceptions of the quality of governance in more than 200 economies. Sources for this data are surveys and expertise produced by more than 30 think tanks, international organizations, nongovernmental organizations, and private firms around the world. 
 
 Out of six different indicators, "Political Stability and Absence of Violence/Terrorism measures perceptions of the likelihood of political instability and/or politicallymotivated violence, including terrorism."
 
-United Nations' Comtrade database aggregates annual and monthly global trade data reported by member countries to the UN. It covers about 200 countries and "represents more than 99% of the world's merchandise trade."
-
-Most 2025 reports 2025 refer to 2023 data. We have mainly chosen to show 2023 data for coherence, except on change in prices and future demand, where 2025 onwards data has been included for its relevancy​
+<b>United Nations' Comtrade</b> database aggregates annual and monthly global trade data reported by member countries to the UN. It covers about 200 countries and "represents more than 99% of the world's merchandise trade."
 
 ## Methodological notes and caveats
 
-The critical minerals analysed correspond to the "list of critical raw materials" compiled by the <a href='https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32024R1252&qid=1720020986785'>European Commission</a>. While this list may not correspond to what each African country defines as a strategic mineral, from their point of view as producers, we chose the EU Commission list for homogeneity and due to the increasing demand from Western countries. 
+Most 2025 reports 2025 refer to 2023 data. We have mainly chosen to show 2023 data for coherence, except on change in prices and future demand, where 2025 onwards data has been included for its relevancy​.
+
+The critical minerals analysed correspond to the "list of critical raw materials" compiled by the <a href='https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32024R1252&qid=1720020986785'>European Commission</a>. While this list may not correspond to what each African country defines as a strategic mineral from their point of view as producers, we still chose the EU Commission list for homogeneity and due to the importance of the increasing demand from Western countries. 
 
 
 
