@@ -2,6 +2,14 @@
 
 The demand for critical mineral is expected to continue increasing in the short and longterm future. DW's data-driven journalism team looked into the role of Africa in the global supply chain. 
 
+<em>Idea, data analysis and visualization:</em> Ana Muñoz Padrós
+
+<em>Interviews:</em> Facilited by Jean-Michel Bos and conducted by Ana Muñoz Padrós
+
+<em>Writing</em>: Ana Muñoz Padrós and Jean-Michel Bos
+
+<em>Editing:</em> Gianna-Carina Grün
+
 ## Data collection
 Data was pulled from all sources in May and June 2025. 
 Sources: 
