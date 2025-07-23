@@ -26,7 +26,7 @@ IEA data includes a lower number of critical minerals than WMD. We have looked i
 
 <b>The World Bank</b>, the international institution providing loans to governments of middle to low-income countries, compiles its Worldwide Governance Indicators on the perceptions of the quality of governance in more than 200 economies. Sources for this data are surveys and expertise produced by more than 30 think tanks, international organizations, nongovernmental organizations, and private firms around the world. 
 
-Out of six different indicators, "Political Stability and Absence of Violence/Terrorism measures perceptions of the likelihood of political instability and/or politicallymotivated violence, including terrorism."
+Out of six different indicators, "Political Stability and Absence of Violence/Terrorism measures perceptions of the likelihood of political instability and/or politically motivated violence, including terrorism."
 
 <b>United Nations' Comtrade</b> database aggregates annual and monthly global trade data reported by member countries to the UN. It covers about 200 countries and "represents more than 99% of the world's merchandise trade."
 
