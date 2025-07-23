@@ -499,13 +499,13 @@ df_rank_min_pivot.to_csv("pivotRankMinerals.csv")
 df_rank_min_pivot
 
 
-# In[58]:
+# In[56]:
 
 
 ## Complementing table
 
 
-# In[59]:
+# In[57]:
 
 
 share_total["Share in %"] = share_total["Share in %"].astype(float).round(2)
@@ -513,7 +513,7 @@ share_total["Share in %"] = share_total["Share in %"].astype(str)
 share_total["c_share"] = share_total["Country"] + ": " + share_total["Share in %"] + "%"
 
 
-# In[60]:
+# In[58]:
 
 
 df_rank_pivot = share_total.pivot(
@@ -523,20 +523,74 @@ df_rank_pivot = share_total.pivot(
 ).reset_index()
 
 
-# In[61]:
+# In[59]:
 
 
 df_rank_pivot
 
 
-# In[ ]:
+# In[60]:
 
 
 df_rank_pivot.to_csv("topRankDetailTotal.csv", index=False)
 
 
-# In[ ]:
+# ## D-Ranking per global share - Other
+# ### Same process, but with all countries worldwide. Goal: Finding out who else tops rankings. We simply do not filter by 'Countries'. 
+# Tables
+
+# In[61]:
 
 
+# same-old function but dflatest doesn't discriminate by countries
+def collect_high_shares_global(dfs_OK, start_idx, end_idx, initial_df_share=None):
+    if initial_df_share is None:
+        initial_df_share = pd.DataFrame()
 
+    keys_list = list(dfs_OK.keys())
+
+    for idx in range(start_idx, end_idx + 1):
+        element = keys_list[idx]
+        df = dfs_OK[element]
+        dflatest = df[df['Share in %'] > 0].copy() #We ensure that all countries with a positive share are included
+        dflatest['Mineral'] = element
+        initial_df_share = pd.concat([initial_df_share, dflatest], ignore_index=True)
+
+    return initial_df_share
+
+
+# In[62]:
+
+
+share_total_global = collect_high_shares_global(dfs_OK, 0, 20)
+
+
+# In[65]:
+
+
+share_total_global["Share in %"] = share_total_global["Share in %"].astype(float).round(2)
+share_total_global["Share in %"] = share_total_global["Share in %"].astype(str)
+share_total_global["c_share"] = share_total_global["Country"] + ": " + share_total_global["Share in %"] + "%"
+
+
+# In[66]:
+
+
+df_rank_pivot_global = share_total_global.pivot(
+    index="Mineral",
+    columns="Rank 2023",
+    values="c_share"
+).reset_index()
+
+
+# In[67]:
+
+
+df_rank_pivot_global
+
+
+# In[68]:
+
+
+df_rank_pivot_global.to_csv("topRankDetailTotalGlobal.csv", index=False)
 
