@@ -8,7 +8,7 @@ The demand for critical mineral is expected to continue increasing in the short 
 
 <em>Writing</em>: Ana Muñoz Padrós and Jean-Michel Bos
 
-<em>Editing:</em> Gianna-Carina Grün
+<em>Editing:</em> Gianna-Carina Grün and Dirke Köpp
 
 ## Data collection
 Data was pulled from all sources in May and June 2025. 
