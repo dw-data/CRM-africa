@@ -32,7 +32,7 @@ Out of six different indicators, "Political Stability and Absence of Violence/Te
 
 ## Methodological notes and caveats
 
-Most 2025 reports 2025 refer to 2023 data. We have mainly chosen to show 2023 data for coherence, except on change in prices and future demand, where 2025 onwards data has been included for its relevancy​.
+Most 2025 reports refer to 2023 data. We have mainly chosen to show 2023 data for coherence, except on change in prices and future demand, where 2025 onwards data has been included for its relevancy​.
 
 The critical minerals analysed correspond to the "list of critical raw materials" compiled by the <a href='https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32024R1252&qid=1720020986785'>European Commission</a>. While this list may not correspond to what each African country defines as a strategic mineral from their point of view as producers, we still chose the EU Commission list for homogeneity and due to the importance of the increasing demand from Western countries. 
 
