@@ -10,7 +10,7 @@ The demand for critical mineral is expected to continue increasing in the short 
 
 <em>Editing:</em> Gianna-Carina Grün, Dirke Köpp, Milan Gagnon
 
-<b>Read the full articles on DW.com</b>: <a html='https://www.dw.com/en/critical-minerals-could-supercharge-africas-future/a-73210311'>Critical minerals could supercharge Africa's future</a> and <a html='https://www.dw.com/en/africa-critical-minerals-mining-instability-drc-rwanda-m23-conflict-graphics-v2/a-73876380'>Critical minerals contribute to instability in Africa</a>
+<b>Read the full articles on DW.com</b>: <a href='https://www.dw.com/en/critical-minerals-could-supercharge-africas-future/a-73210311'>Critical minerals could supercharge Africa's future</a> and <a href='https://www.dw.com/en/africa-critical-minerals-mining-instability-drc-rwanda-m23-conflict-graphics-v2/a-73876380'>Critical minerals contribute to instability in Africa</a>
 
 ## Data collection
 Data was pulled from all sources in May and June 2025. 
